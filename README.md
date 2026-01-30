@@ -6,4 +6,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ummsehun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummsehun&layout=compact&theme=tokyonight)
-
+[![wakatime](https://wakatime.com/badge/user/75fc2ddd-ebf0-40d8-847d-ea29a833568a.svg)](https://wakatime.com/@75fc2ddd-ebf0-40d8-847d-ea29a833568a)
