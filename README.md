@@ -8,4 +8,4 @@
 
 
 <a href="https://github.com/umsehun" target="_blank">전 github</a> <br>
-<a href="[https://drive.google.com/file/d/1LbcpOiH7FSZrK1Jf861_sZXpAFSHTTFi/view?usp=drive_link](https://drive.google.com/file/d/1e-0KPxZLjtDStPPOCnKsoQ6zXINtojPc/view?usp=drive_link)" target="_blank">임세훈 포토폴리오</a>
+<a href="https://drive.google.com/file/d/1e-0KPxZLjtDStPPOCnKsoQ6zXINtojPc/view?usp=drive_link" target="_blank">임세훈 포토폴리오</a>
